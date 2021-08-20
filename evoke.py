@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+
+#mne code for get evoked
+
 import mne
 import os
 import numpy as np
-
-
 
 def epo_data(epochs):
     epo_name = ['Hit', 'FA', 'Miss', 'CR']
