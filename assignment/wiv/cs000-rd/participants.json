@@ -1,0 +1,29 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "rum": {
+        "Description": "Rumination respond scale's total scores",
+        "Levels": {
+            "Units": "a.u.",
+        }
+    }
+    "dep_rum": {
+        "Description": "Rumination respond scale's subscale, depressive rumination",
+        "Levels": {
+            "Units": "a.u.",
+        }
+    }
+    "ref_rum": {
+        "Description": "Rumination respond scale's subscale, reflective rumination",
+        "Levels": {
+            "Units": "a.u.",
+        }
+    }
+    "brood_rum": {
+        "Description": "Rumination respond scale's subscale, brooding rumination",
+        "Levels": {
+            "Units": "a.u.",
+        }
+    }
+}
