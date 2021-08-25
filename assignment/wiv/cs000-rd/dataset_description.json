@@ -1,0 +1,14 @@
+{
+    "Name": "cs000-rd",
+    "BIDSVersion": "1.4.0",
+    "DatasetType": "raw",
+    "License": "N/A",
+    "Authors": [
+        "Tzu-Yu Hsu",
+        "Risa Dwi Ratnasari",
+        "Paul Z. Cheng"
+    ],
+    "Funding": [
+        "N202003129"
+    ]
+}
